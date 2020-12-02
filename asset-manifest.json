@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Jadbaltaji/react-calculaternpm/static/css/main.2ecf7b71.chunk.css",
-    "main.js": "/Jadbaltaji/react-calculaternpm/static/js/main.ffcddbec.chunk.js",
-    "main.js.map": "/Jadbaltaji/react-calculaternpm/static/js/main.ffcddbec.chunk.js.map",
-    "runtime~main.js": "/Jadbaltaji/react-calculaternpm/static/js/runtime~main.dbc63843.js",
-    "runtime~main.js.map": "/Jadbaltaji/react-calculaternpm/static/js/runtime~main.dbc63843.js.map",
-    "static/js/2.add7bac3.chunk.js": "/Jadbaltaji/react-calculaternpm/static/js/2.add7bac3.chunk.js",
-    "static/js/2.add7bac3.chunk.js.map": "/Jadbaltaji/react-calculaternpm/static/js/2.add7bac3.chunk.js.map",
-    "index.html": "/Jadbaltaji/react-calculaternpm/index.html",
-    "precache-manifest.a1838aada01bbcf4ac62f41c19c2b5f4.js": "/Jadbaltaji/react-calculaternpm/precache-manifest.a1838aada01bbcf4ac62f41c19c2b5f4.js",
-    "service-worker.js": "/Jadbaltaji/react-calculaternpm/service-worker.js",
-    "static/css/main.2ecf7b71.chunk.css.map": "/Jadbaltaji/react-calculaternpm/static/css/main.2ecf7b71.chunk.css.map"
+    "main.css": "Jadbaltaji.github.io/static/css/main.2ecf7b71.chunk.css",
+    "main.js": "Jadbaltaji.github.io/static/js/main.ffcddbec.chunk.js",
+    "main.js.map": "Jadbaltaji.github.io/static/js/main.ffcddbec.chunk.js.map",
+    "runtime~main.js": "Jadbaltaji.github.io/static/js/runtime~main.8ec28b30.js",
+    "runtime~main.js.map": "Jadbaltaji.github.io/static/js/runtime~main.8ec28b30.js.map",
+    "static/js/2.add7bac3.chunk.js": "Jadbaltaji.github.io/static/js/2.add7bac3.chunk.js",
+    "static/js/2.add7bac3.chunk.js.map": "Jadbaltaji.github.io/static/js/2.add7bac3.chunk.js.map",
+    "index.html": "Jadbaltaji.github.io/index.html",
+    "precache-manifest.af47e7b022cfecd69f3a279f2e3e08d0.js": "Jadbaltaji.github.io/precache-manifest.af47e7b022cfecd69f3a279f2e3e08d0.js",
+    "service-worker.js": "Jadbaltaji.github.io/service-worker.js",
+    "static/css/main.2ecf7b71.chunk.css.map": "Jadbaltaji.github.io/static/css/main.2ecf7b71.chunk.css.map"
   }
 }
