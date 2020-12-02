@@ -2,7 +2,7 @@
   "name": "calculator",
   "version": "0.1.0",
   "license": "MIT",
-  "homepage": "https://github.com/Jadbaltaji/react-calculaternpm",
+  "homepage": "https://frozen-temple-70472.herokuapp.com/",
   "devDependencies": {
     "chai": "^4.2.0",
     "gh-pages": "^2.2.0",
@@ -17,11 +17,12 @@
   },
   "scripts": {
     "prestart": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
+    
   },
   "prettier": {
     "trailingComma": "all"
