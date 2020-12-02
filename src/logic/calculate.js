@@ -3,15 +3,7 @@ import Big from "big.js";
 import operate from "./operate";
 import isNumber from "./isNumber";
 
-/**
- * Given a button name and a calculator data object, return an updated
- * calculator data object.
- *
- * Calculator data object contains:
- *   total:String      the running total
- *   next:String       the next number to be operated on with the total
- *   operation:String  +, -, etc.
- */
+
 export default function calculate(obj, buttonName) {
   if (buttonName === "AC") {
     return {
@@ -101,13 +93,6 @@ export default function calculate(obj, buttonName) {
     return {};
   }
 
-  // Button must be an operation
-
-  // When the user presses an operation button without having entered
-  // a number first, do nothing.
-  // if (!obj.next && !obj.total) {
-  //   return {};
-  // }
 
   // User pressed an operation button and there is an existing operation
   if (obj.operation) {
